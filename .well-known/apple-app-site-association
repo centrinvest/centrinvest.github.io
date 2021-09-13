@@ -5,7 +5,7 @@
              "appIDs": ["F3LPN653S9.ru.centrinvest.mobilebanking-2018"],
              "components": [
                {
-                  "/": "/me2me/*"
+                  "/": "/me2mepull/*"
                }
              ]
            }
