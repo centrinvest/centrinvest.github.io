@@ -3,6 +3,7 @@
       "details": [
            {
              "appIDs": ["F3LPN653S9.ru.centrinvest.mobilebanking-2018"],
+             "appID": "F3LPN653S9.ru.centrinvest.mobilebanking-2018",
              "components": [
                {
                   "/": "/me2mepull/*"
